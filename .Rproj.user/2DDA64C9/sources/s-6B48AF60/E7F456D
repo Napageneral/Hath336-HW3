@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524018722988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "854255673",
+    "id" : "E7F456D",
+    "lastKnownWriteTime" : 1524018803,
+    "last_content_update" : 1524018803876,
+    "path" : "C:/Users/Tyler Brandt/Desktop/Math-336/Homework3/Homework3/dice.R",
+    "project_path" : "dice.R",
+    "properties" : {
+        "cursorPosition" : "8,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
